@@ -8,6 +8,7 @@ const sans = Montserrat({
 })
 
 const serif = Cormorant_Garamond({
+  weight: "400",
   subsets: ["latin"],
   variable: "--font-serif",
 })
